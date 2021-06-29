@@ -1,4 +1,4 @@
-FROM postgres:10.17-alpine
+FROM postgres:11.12-alpine
 
 LABEL org.opencontainers.image.authors="bartv@nexelit.io"
 
